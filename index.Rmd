@@ -1,0 +1,31 @@
+---
+title: "Baode(Budd) Gao"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+
+---
+
+PhD student of Biostatistics <br>
+The University of Texas Health Science Center at Houston
+
+<br><center><img src="images/Baode_Gao.jpg" alt="baode" style="width:30%; length:33% border:10px solid"></center><br>
+
+
+### Research
+I have learned cure rate model by subgroup analysis. I also have worked to linear mixed model and contributed an article to a known ACM conference. Recently, I studied about graph neural network by self, implemented some classical models and had some new ideas. I'm interested and enthusiastic to do further study on statistics and machine learning. I am looking for opportunities for research. [Here](documents/CV_Baode GAO.pdf) is my CV.
+
+### About
+I got my bachelor's degree in applied mathematics from [XJTLU](https://www.xjtlu.edu.cn/en/) in 2020 and MS's degree in Biostatistics from [Columbia University](https://www.columbia.edu/). I am currently a first year PhD student in Biostatistics & Data Science, [UTHealth](https://www.uth.edu/). 
+<br>
+
+### Contact Information
+
+Baode Gao <br>
+[Department of Biostatistics & Data Science](https://sph.uth.edu/dept/bads/) <br>
+[School of Public Health](https://sph.uth.edu/campuses/houston) <br>
+7900 Cambridge St <br>
+Houston, Texas 77054 <br>
+
+Email: [bg2715@caa.columbia.edu](mailto:bg2715@caa.columbia.edu) 
