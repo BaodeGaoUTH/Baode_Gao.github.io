@@ -4,7 +4,7 @@ output:
   html_document:
     toc: true
     toc_float: true
-
+    theme: readable
 ---
 (2/23/2024) <br>
 PhD student of Biostatistics and Data Science <br>
@@ -24,7 +24,7 @@ I got my bachelor's degree in applied mathematics from [XJTLU](https://www.xjtlu
 
 Baode Gao <br>
 [Department of Biostatistics & Data Science](https://sph.uth.edu/dept/bads/) <br>
-[School of Public Health, The University of Texas Health Science Center at Houston](https://sph.uth.edu/campuses/houston) <br>
+School of Public Health, [The University of Texas Health Science Center at Houston](https://www.uth.edu/) <br>
 [Functional Data Analysis Working Group](https://www.publichealth.columbia.edu/research/programs/functional-data-analysis-working-group) & Causal Deep Learning Journal Club <br>
 7900 Cambridge St <br>
 Houston, Texas 77054 <br>

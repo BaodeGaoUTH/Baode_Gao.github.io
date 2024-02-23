@@ -3,6 +3,8 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
+    - text: "News"
+      href: news.html
     - text: "CV"
       href: ./documents/CV_Baode GAO_2_22_2024.pdf
     - icon: fa-envelope fa-lg
