@@ -6,7 +6,7 @@ output:
     toc_float: true
     theme: readable
 ---
-(2/23/2024) <br>
+### 2/23/2024 
 PhD student of Biostatistics and Data Science <br>
 The University of Texas Health Science Center at Houston
 
